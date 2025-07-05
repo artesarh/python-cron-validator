@@ -1,6 +1,10 @@
 # Cron validator for Python
 
-I got sick of importing cron libraries when i just wanted a validator
+Do you need a cron validator?
+
+I got sick of importing cron libraries that were deprecated or didn't function as expected.
+
+I just wanted a validator and that's it.
 
 ## What it does
 
